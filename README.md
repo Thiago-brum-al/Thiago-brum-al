@@ -14,32 +14,6 @@ More than just writing code, I'm fascinated by the foundation that underpins sof
 
 <div align="center">
 
-## Current Stack 🚀 | Stack Atual 🚀
-  
-  <table border="0">
-    <tr>
-      <td align="center" valign="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="My Skills" />
-      </td>
-      <td align="center" valign="center">
-        <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778547472/ippo_wz2cee.gif" width="100%" alt="Hajime no Ippo">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="center">
-        <img src="https://res.cloudinary.com/essencialdev-cloudinary/image/upload/v1778551281/ippo_2_flk2vy.gif" width="100%" alt="Hajime no Ippo">
-      </td>
-      <td align="center" valign="center">
-        <img src="https://skillicons.dev/icons?i=tailwindcss,react,redux,vite" alt="My Skills" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="center">
-        <img src="https://skillicons.dev/icons?i=next,git,postman,scss" alt="My Skills" />
-      </td>
-      <td align="center" valign="center">
-        <img src="https://tenor.com/pt-BR/view/sendo-hajime-no-ippo-sendo-takeshi-boxer-boxing-gif-5509384149734781102.gif" width="100%" alt="Hajime no Ippo">
-      </td>
-    </tr>
-  </table>
-</div>
+## Focus 🚀
+
+<img src="https://skillicons.dev/icons?i=js,ts" alt="My Skills" />
